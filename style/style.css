@@ -1,0 +1,35 @@
+textarea{
+    background-color: black;
+    border-top: 25px solid lightgray;
+}
+
+.eliza{
+    color: white;
+    padding: 20px;
+}
+
+body{
+    background-image: url(../image/background.jpg);
+}
+.title{
+    background-color: darkcyan;
+    margin: 0 35em;
+}
+h3{
+    padding: 30px;
+}
+input{
+    background-color: lightgray;
+    border-radius: 20px ;
+    padding: 10px;
+}
+input[type="submit" i]{
+    background-color: green;
+    color:ivory;
+  
+}
+input[type="reset" i]{
+    background-color: red;
+    color:ivory;
+
+}
